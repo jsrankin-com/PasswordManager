@@ -1,0 +1,20 @@
+{
+  "id": 123,
+  "name": "Mukesh Kumar",
+  "address": {
+    "street": "El Camino Real",
+    "city": "New Delhi",
+    "zipcode": 95014
+  },
+  "accounts": [
+    {
+      "description": "123",
+      "userid": "12",
+      "loginurl": "12",
+      "accountnum": "12",
+      "password": "12"
+    }
+  ],
+  "phoneNumber": 9988664422,
+  "role": "Developer"
+}
